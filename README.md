@@ -32,9 +32,11 @@ The back-end is powered by **Firebase**, offering robust cloud infrastructure in
 ![Frontend](https://img.shields.io/badge/Frontend-Flutter%20&%20Dart-blue) ![Backend](https://img.shields.io/badge/Backend-Firebase-orange) ![State Management](https://img.shields.io/badge/State%20Management-Provider%20%7C%20Bloc-green) ![Payments](https://img.shields.io/badge/Payments-Stripe%20%7C%20Razorpay-purple) ![APIs](https://img.shields.io/badge/APIs-Location%20&%20Notifications-lightgrey)
 
 ## Contributors
-This project is the collective effort of the following contributors:
-- DidulakaHirusha
 
+This project represents dedicated work and collaboration between:
+- **[DidulakaHirusha](https://github.com/DidulakaHirusha)** 
+
+We appreciate the collaborative effort and technical expertise that has shaped ShopNGo into a fully-functional e-commerce solution.
 
 ## License
 

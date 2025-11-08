@@ -35,7 +35,8 @@ The back-end is powered by **Firebase**, offering robust cloud infrastructure in
 
 This project represents dedicated work and collaboration between:
 - **[DidulakaHirusha](https://github.com/DidulakaHirusha)** 
-
+- **[Wathsara02](https://github.com/Wathsara02)**
+  
 We appreciate the collaborative effort and technical expertise that has shaped ShopNGo into a fully-functional e-commerce solution.
 
 ## License
